@@ -1,0 +1,30 @@
+https://bytes.com/topic/c/answers/916778-downloading-webpage-c       socket structure for dumping html
+http://supercomputingblog.com/windows/how-to-download-html-with-c/
+http://supercomputingblog.com/wp-content/uploads/2009/12/downloadHTML.cpp
+
+https://gist.github.com/berlinbrown/4583728		c++ code for scrapper
+
+https://www.youtube.com/watch?v=dw50MnqH-Qo  --Qt tutorial - how to dump file into directory
+
+
+
+http://www.cplusplus.com/forum/unices/45878/ --working code for dumping files using c++
+https://techoverflow.net/2013/03/15/simple-c-http-download-using-libcurl-easy-api/
+
+
+
+
+
+https://www.codeproject.com/Questions/427350/calling-a-website-from-cplusplus
+
+
+https://askubuntu.com/questions/198442/how-to-install-the-codeblocks-ide  --installation of codeblocks IDE
+http://www.sci.brooklyn.cuny.edu/~goetz/codeblocks/codeblocks-instructions.pdf   --study guide for codeblocks
+
+
+
+http://derekmolloy.ie/hello-world-introductions-to-cmake/      ---- introduction to cmake  - .so, .a
+http://www.sgh1.net/b4/curlpp-getting-started-tutorial			-----cmake & CURL
+https://github.com/JosephP91/curlcpp			-- CLONE ABOVE FOR CURL
+
+http://stackoverflow.com/questions/4181372/why-doesnt-boost-regex-find-multiple-matches-in-one-string  -- regex matching -multiple
