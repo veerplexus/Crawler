@@ -1,0 +1,746 @@
+    1  cd ~/Downloads/
+    2  ls
+    3  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+    4  python
+    5  Click on Add a phone number in the Backup phones section.
+    6  Get backup codes
+    7  If you don't have access to your primary or backup phones -
+    8  Click on Add a phone number in the Backup phones section.
+    9  Get backup codes
+   10  If you don't have access to your primary or backup phones -
+   11  Click on Add a phone number in the Backup phones section.
+   12  Get backup codes
+   13  If you don't have access to your primary or backup phones -
+   14  Click on Add a phone number in the Backup phones section.
+   15  Get backup codes
+   16  sudo pip install jupitor
+   17  sudo apt-get install python-pip
+   18  ll
+   19  pwd
+   20  df -h
+   21  cd /data/
+   22  ll
+   23  sudo su
+   24  ll
+   25  rmdir office/
+   26  mkdir officeone
+   27  l
+   28  ll
+   29  mkdir misc
+   30  sudo mkdir misc
+   31  ll
+   32  sudo rmdir office/
+   33  ll
+   34  mkdir office
+   35  sudo mkdir office
+   36  cd misc/
+   37  ll
+   38  l
+   39  cd ..
+   40  pwd
+   41  sudo chown govardhan.veer:govardhan.veer office/
+   42  ll
+   43  df -h
+   44  cd office/
+   45  mkdir jupyter_folder
+   46  sudo pip install jupyter
+   47  python
+   48  pip --version
+   49  sudo pip list
+   50  sudo pip install --upgrade
+   51  sudo pip install --upgrade pip
+   52  sudo pip install jupyter
+   53  jupyter notebook
+   54  sudo apt-get install setuptools
+   55  sudo apt-get install python-setuptools
+   56  sudo apt-get install python-dev
+   57  sudo apt-get update
+   58  sudo apt-get install python-dev
+   59  history
+   60  sudo pip install jupyter
+   61  sudo apt-get install python-jupyter
+   62  pip list
+   63  sudo pip install --upgrade six
+   64  sudo apt-get install python-jupyter
+   65  sudo pip install jupyter
+   66  cd jupyter_folder/
+   67  jupyter notebook
+   68  history
+   69  history | grep jupyter
+   70  history | grep Jupyter
+   71  history -i
+   72  sudo pip install beautifulsoup4
+   73  sudo apt-get install python-lxml
+   74  history
+   75  cd /data/
+   76  ll]
+   77  ll
+   78  cd office/jupyter_folder/
+   79  jupyter notebook
+   80  mkdir debug
+   81  ls
+   82  ll
+   83  cd ..
+   84  pwd
+   85  cd home/
+   86  ls
+   87  $ sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   88  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   89  sudo apt-get update 
+   90  sudo apt-get install sublime-text-installer
+   91  ls
+   92  cd /data/
+   93  cd crawler/
+   94  cd debug/
+   95  ccmake ..
+   96  ls
+   97  ll
+   98  cd ..
+   99  ccmake ..
+  100  ls
+  101  ccmake ..
+  102  cd debug/
+  103  ccmake ..
+  104  cd ..
+  105  ll
+  106  ccmake ..
+  107  cd cmake/
+  108  ll
+  109  ccmake ..
+  110  cd ..
+  111  vim CMakeLists.txt
+  112  sudo apt-get  libcurl4-gnutls-dev
+  113  sudo apt-get install libcurl4-gnutls-dev
+  114  sudo apt-get install  libmysql++-dev
+  115  sudo apt-get install libtidy-dev
+  116  sudo apt-get install build-essential
+  117  sudo apt-get install libboost-all-dev
+  118  sudo -i
+  119  make
+  120  ccmake ..
+  121  ll
+  122  cd debug/
+  123  ll
+  124  ccmake ..
+  125  cd ..
+  126  sudo git clone https://github.com/mongodb/mongo-cxx-driver.git
+  127  cd mongo-cxx-driver/
+  128  scons --use-system-boost
+  129  scons install-mongoclient --full --c++11=C++11 --use-system-boost
+  130  mkdir release
+  131  cd release/
+  132  ccmake ..
+  133  ccmake..
+  134  apt-get install liblog4cxx10-dev
+  135  cd ..
+  136  apt-get install liblog4cxx10-dev
+  137  sudo apt-get install liblog4cxx10-dev
+  138  sudo apt-get install libzmqpp-de
+  139  sudo  apt-get install liburiparser-dev
+  140  sudo apt-get install liburiparser1
+  141  make crawler -j 5
+  142  cd ..
+  143  make crawler -j 5
+  144  ccmake ..
+  145  cd crawler/
+  146  ccmake ..
+  147  cd debug/
+  148  ccmake ..
+  149  cd ..
+  150  pwd
+  151  cd ..
+  152  pwd
+  153  ll
+  154  ls
+  155  cd home/
+  156  ls
+  157  ll
+  158  cd govardhan.veer/Downloads/
+  159  ll
+  160  tar -zxvf httrack-3.49.1.tar.gz 
+  161  cd httrack-3.49.1/
+  162  ll
+  163  ./configure 
+  164  sudo make install
+  165  maKE
+  166  make
+  167  sudo make
+  168  ./configure 
+  169  make
+  170  sudo make
+  171  make -j 4
+  172  ll
+  173  ./configure 
+  174  apt-get install webhttrack
+  175  sudo apt-get install webhttrack
+  176  ./configure 
+  177  apt-get install --with-zlib=DIR
+  178  wget http://www.bioone.org/
+  179  cd ..
+  180  pwd
+  181  sudo apt-get install build-essential cmake cmake-curses-gui libcurl4-gnutls-dev liblog4cxx10-dev libmysql++-dev libboost-all-dev mongodb-dev mongodb-clients mongodb-server
+  182  ll
+  183  mkdir crawler
+  184  sudo mkdir crawler
+  185  ls'
+  186  ls
+  187  cd crawler/
+  188  pwd
+  189  cd ..
+  190  rmdir crawler/
+  191  sudo rmdir crawler/
+  192  ls
+  193  cd ..
+  194  cd /data/
+  195  ls
+  196  sudo mkdir crawler
+  197  ls
+  198  ll
+  199  history
+  200  sudo chown govardhan.veer:govardhan.veer crawler/
+  201  ll
+  202  cd crawler/
+  203  ls
+  204  cd full/
+  205  ls
+  206  ll
+  207  make crawler
+  208  make 
+  209  curl -version
+  210  curl --version
+  211  log4cxx --version
+  212  mysql++ -v
+  213  mysql++ -version
+  214  mysql -version
+  215  mongo
+  216  boost
+  217  boost --v
+  218  boost --version
+  219  cd ..
+  220  pwd
+  221  sudo apt-get install build-essential cmake cmake-curses-gui libcurl4-gnutls-dev liblog4cxx10-dev libmysql++-dev libboost-all-dev mongodb-dev mongodb-clients mongodb-server
+  222  git status
+  223  sudo apt-get git
+  224  sudo apt-get github
+  225  pwd
+  226  sudo apt-get update 
+  227  sudo apt-get install git
+  228  git status 
+  229  git 
+  230  sudo apt-get update 
+  231  sudo apt-get install build-essential libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+  232  git status 
+  233  git
+  234  git status 
+  235  git
+  236  git fetch 
+  237  git clone https://github.com/GovardhanInnoplexus/crawleingPharmacy.git
+  238  sudo git clone https://github.com/GovardhanInnoplexus/crawleingPharmacy.git
+  239  ls
+  240  cd crawleingPharmacy/
+  241  ls
+  242  git status
+  243  top
+  244  cd ..
+  245  ll
+  246  cd /opt/
+  249  locate qt
+  250  locate qtcreat
+  251  cd /usr/share/app-install/desktop/
+  252  ls
+  253  ll
+  254  grep qt
+  255  locate qtCreater
+  256  locate qtCreator
+  257  locate qtcreator
+  258  cat /usr/share/app-install/desktop/ | grep qtcreator
+  259  cd /usr/share/app-install/desktop/
+  260  cat qtcreator:qtcreator.desktop
+  261  git status 
+  262  cd ..
+  263  pwd'
+  264  pwd
+  265  git status 
+  266  history | grep github
+  267  sudo git clone https://github.com/GovardhanInnoplexus/crawleingPharmacy.git
+  268  git status 
+  269  cd data/
+  270  ls
+  271  ll
+  272  cd crawler/
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd office/
+  277  ls
+  278  locate crawlingPharmacy
+  279  cd ..
+  280  sudo git clone https://github.com/GovardhanInnoplexus/crawleingPharmacy.git
+  281  git status 
+  282  cd crawleingPharmacy/
+  283  git status 
+  284  cd ..
+  285  cd crawler/
+  286  sudo apt-get install libboost-all-dev
+  287  sudo apt-get install liblog4cxx10-dev
+  288  sudo apt-get install scons
+  289  sudo apt-get install 
+  290  sudo apt-get install libmysql++-dev
+  291  sudo apt-get install libtidy-dev
+  292  sudo apt-get install libmysql++-dev
+  293  sudo apt-get install libboost-all-dev liblog4cxx10-dev scons libtidy-dev libmysql++-dev libcurl4-gnutls-dev libzmqpp-dev liburiparser-dev git
+  294  wget http://www.aerospike.com/download/client/c/4.0.4/artifact/ubuntu14 -O aero.tar.gz
+  295  tar -zxvf aero.tar.gz 
+  296  ls
+  297  sudo dpkg -i aerospike-client-c-devel-4.0.4.ubuntu14.04.x86_64.deb
+  298  sudo -i
+  299  ls
+  300  ll
+  301  make -j 4
+  302  cd debug/
+  303  make -j 4
+  304  ll
+  305  cd ../full/
+  306  make -j 4
+  307  ll
+  308  cd /home/sivanov/work/crawler/release/crawler
+  309  cd ../home/sivanov/work/crawler/release/crawler
+  310  cd ..
+  311  ll
+  312  wget www.bloomindales.com
+  313  pwd
+  314  ls
+  315  ll
+  316  gedit index.html
+  317  ls
+  318  cd Desktop/
+  319  g++ downloadHTML.cpp -o test
+  320  gcc downloadHTML.cpp -o test
+  321  g++ downloadHTML.cpp -o test
+  322  ./test 
+  323  g++ downloadHTML.cpp -o test
+  324  ./test 
+  325  g++ TESTscrapy.cpp -o scrapy
+  326  g++ TESTscrapy.cpp -o scrapy -lcurl
+  327  ./scrapy 
+  328  g++ TESTscrapy.cpp -o scrapy -lcurl
+  329  ./scrapy 
+  330  g++ TESTscrapy2.cpp -o scrapy2 -lcurl
+  331  ./scrapy2
+  332  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  333  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  334  gitg
+  335  cd ../
+  336  cd /data/crawler_app/
+  337  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  338  ll
+  339  cd Crawler/
+  340  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  341  ./http 
+  342  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  343  ./http 
+  344  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  345  ./http 
+  346  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  347  g++ TESTscrapy2.cpp -o scrapy2 -lcurl
+  348  cd Desktop/
+  349  g++ TESTscrapy2.cpp -o scrapy2 -lcurl
+  350  g++ -std=c++11 TESTscrapy2.cpp -o scrapy2 -lcurl
+  351  history
+  352  g++ -std=c++11 TESTscrapy2.cpp -o scrapy2 -lcurl -lboost_regex
+  353  ./scrapy2
+  354  mongo
+  355  echo "# Crawler_Test" >> README.md
+  356  git init
+  357  cd ../
+  358  cd /data/crawler
+  359  echo "# Crawler_Test" >> README.md
+  360  cd ../crawler_app/
+  361  ll
+  362  echo "# Crawler_Test" >> README.md
+  363  git init
+  364  https://github.com/GovardhanInnoplexus/Crawler_Test.git
+  365  git@github.com:GovardhanInnoplexus/Crawler_Test.git
+  366  git commit -m "first commit"
+  367  git config --global user.email "govardhan.veer@innoplexus.com"
+  368  git config --global user.name "GovardhanInnoplexus"
+  369  git commit -m "first commit"
+  370  git gui
+  371  git gc
+  372  git gui
+  373  git remote add origin git@github.com:GovardhanInnoplexus/Crawler_Test.git
+  374  git push -u origin master
+  375  gitg
+  376  sudo apt-get install gitg 
+  377  gitg
+  378  sudo apt-get install git-gui
+  379  git gui
+  380  git status 
+  381  git fetch 
+  382  git remote add origin git@github.com:GovardhanInnoplexus/Crawler_Test.git
+  383  git push -u origin master
+  384  git config
+  385  git -config
+  386  git config --list
+  387  git push
+  388  git fetcj
+  389  git fetch
+  390  curl google.com
+  391  git status 
+  392  cd
+  393  git commit -m "first commit"
+  394  git push -u origin master
+  395  git remote add origin git@github.com:GovardhanInnoplexus/Crawler_Test.git
+  396  git push -u origin master
+  397  git remote -v
+  398  git push -u origin Crawler_Test
+  399  git remote -v Crawler_Test
+  400  git remote -v
+  401  git remote set-url https://github.com/GovardhanInnoplexus/Crawler_Test.git
+  402  history 
+  403  ls
+  404  mkdir test
+  405  cd test
+  406  git clone https://github.com/GovardhanInnoplexus/Crawler_Test.git
+  407  ls
+  408  cd Crawler_Test/
+  409  ls
+  410  cd ..
+  411  ls
+  412  git status 
+  413  cd ..
+  414  cd /data/crawler_app/
+  415  ll
+  416  git status 
+  417  rm crawler_app.cbp
+  418  crawler_app.depend
+  419  crawler_app.h
+  420  crawler_app.layout
+  421  rm main.cpp
+  422  rm crawler_app.layout
+  423  rm crawler_app.h
+  424  rm crawler_app.depend
+  425  git status 
+  426  rm obj/
+  427  rm -r obj/
+  428  git status 
+  429  git commit -m -a "my first commit"
+  430  ls
+  431  git status 
+  432  git commit -a -m "my first commit"
+  433  git clone https://github.com/GovardhanInnoplexus/Crawler_Test.git
+  434  git status 
+  435  git commit -m "my first commit"
+  436  git add TESTscrapy2.cpp 
+  437  git README.md
+  438  git status 
+  439  git status
+  440  rm README.md
+  441  git status
+  442  git commit -m "new first commit"
+  443  git fetch 
+  444  ls
+  445  cd ..
+  446  ll
+  447  cd crawler_app/
+  448  ll
+  449  rm -r .git/
+  450  sudo rmdir .git/
+  451  ll
+  452  rm -rf .git/
+  453  ll
+  454  git
+  455  gitg
+  456  find . -type f | grep -i "\.git" | xargs rm
+  457  find $GIT_DIR -name *.git* -ok rm -Rf {} \;
+  458  git
+  459  ll
+  460  gitg
+  461  cd ..
+  462  gitg
+  463  git status 
+  464  cd crawler_app/
+  465  git status 
+  466  echo "# Crawler" >> README.md
+  467  git init
+  468  git add README.md
+  469  git commit -m "first commit"
+  470  git remote add origin https://github.com/veerplexus/Crawler.git
+  471  git push -u origin master
+  472  git gui
+  473  gitg
+  474  git status 
+  475  git commit -a -m "curl & regex experiments"
+  476  git clone https://github.com/veerplexus/Crawler.git
+  477  git status 
+  478  cd Crawler/
+  479  git status 
+  480  git commit -m "curl & regex experiment"
+  481  git add TESTscrapy2.cpp 
+  482  git status 
+  483  git commit -a -m "curl & regex experiment"
+  484  git fetch 
+  485  git rebase origin/master 
+  486  git push 
+  487  gitg
+  488  ll
+  489  git status 
+  490  rm TESTscrapy2.o
+  491  git status 
+  492  vim ~/.gitconfig 
+  493  git status 
+  494  git commit -a -m "useful links -web search links for study purpose"
+  495  git commit -a 
+  496  vim git commit -a
+  497  vim git commit
+  498  git status 
+  499  git commit -a -m "useful links -web search links for study purpose"
+  500  ll
+  501  rm git 
+  502  ll
+  503  vim ~/.gitconfig 
+  504  git status 
+  505  vim ~/.gitconfig 
+  506  git status 
+  507  vim ~/.gitconfig 
+  508  git status 
+  509  git add searchResult 
+  510  git commit -a -m "useful links -web search links for study purpose"
+  511  git fetch
+  512  git rebase 
+  513  git push 
+  514  vim ~/.gitconfig 
+  515  git status 
+  516  git commit -m "iterator class example"
+  517  history
+  518  ll
+  519  g++ HTTPDownloaderExample.cpp -o http -lcurl
+  520  g++-4.9 HTTPDownloaderExample.cpp -o http -lcurl
+  521  g++-4.9 HTTPDownloaderExample.cpp -o -lcurl -lboost_regex
+  522  g++-4.9 HTTPDownloaderExample.cpp -o -lcurl -W
+  523  g++-4.9 HTTPDownloaderExample.cpp -o -lcurl -wall
+  524  g++-4.9 HTTPDownloaderExample.cpp -o -lcurl -lstdc++
+  525  gcc HTTPDownloaderExample.cpp -o -lcurl -lstdc++
+  526  gcc HTTPDownloaderExample.cpp -o -l -lcurl -lstdc++
+  527  git status 
+  528  git add HTTPDownloader.cpp HTTPDownloader.hpp HTTPDownloaderExample.cpp
+  529  git status 
+  530  git commit -a -m "How To Curl & Dump HTML source"
+  531  git fetch 
+  532  git rebase origin/master 
+  533  git push 
+  534  gitg
+  535  g++ parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl
+  536  g++ parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost
+  537  g++ parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  538  g++ std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  539  g++ std=C++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  540  g++ -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  541  g++-4.9 -std=c++11  parseCommons.cpp HTTPDownloader.cpp HTTPDownloaderExample.cpp -o http -lcurl -lboost_regex
+  542  dpkg -s libboost-dev | grep 'Version'
+  543  cd build/
+  544  ll
+  545  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  546  cd
+  547  cd /usr/local/
+  548  ll
+  549  cd lib/
+  550  ll
+  551  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  552  cd
+  553  git clone https://github.com/mongodb/mongo-cxx-driver.git
+  554  sudo git clone https://github.com/mongodb/mongo-cxx-driver.git
+  555  cd mongo-cxx-driver/build
+  556  curl -OL https://github.com/mongodb/mongo-cxx-driver/archive/r3.1.1.tar.gz
+  557  sudo curl -OL https://github.com/mongodb/mongo-cxx-driver/archive/r3.1.1.tar.gz
+  558  tar -xzf r3.1.1.tar.gz
+  559  sudo tar -xzf r3.1.1.tar.gz
+  560  cd mongo-cxx-driver-r3.1.1/build
+  561  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  562  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  563  wget https://github.com/mongodb/mongo-c-driver/releases/download/1.6.2/mongo-c-driver-1.6.2.tar.gz
+  564  sudo wget https://github.com/mongodb/mongo-c-driver/releases/download/1.6.2/mongo-c-driver-1.6.2.tar.gz
+  565  cd libbson-1.6.2/
+  566  sudo cd libbson-1.6.2/
+  567  sudo cd libbson-1.6.2
+  568  sudo cd libbson-1.6.2/
+  569  locate libson
+  570  cd
+  571  wget https://github.com/mongodb/mongo-c-driver/releases/download/1.6.2/mongo-c-driver-1.6.2.tar.gz
+  572  tar -xzf libbson-1.6.2.tar.gz
+  573  sudo tar -xzf libbson-1.6.2.tar.gz
+  574  cd Downloads/
+  575  ll
+  576  tar -xzf libbson-1.6.2.tar.gz
+  577  cd libbson-1.6.2/
+  578  ./configure --prefix=/usr --libdir=/usr/lib64
+  579  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  580  cd 
+  581  cd mongo-cxx-driver/
+  582  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  583  cd build/
+  584  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  585  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  586  cd
+  587  cd mongo-cxx-driver/
+  588  cd
+  589  cd Downloads/libbson-1.6.2/
+  590  pws
+  591  pwd
+  592  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2..
+  593  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  594  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1
+  595  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1 \ ..
+  596  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  597  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1   -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  598  make && sudo make install
+  599  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  600  cd 
+  601  cd mongo-cxx-driver/
+  602  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  603  cd build/
+  604  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  605  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  606  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1 -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  607  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  608  cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  609  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  610  cd 
+  611  locate CMakeLi
+  612  cd /data/crawler_app/Crawler/
+  613  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  614  cd mongo-cxx-driver/build/
+  615  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  616  sudo cmake -DCMAKE_BUILD_TYPE=Release -DBSONCXX_POLY_USE_BOOST=1     -I/home/govardhan.veer/Downloads/libbson-1.6.2 ..
+  617  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  618  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2/ ..
+  619  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2/ ..
+  620  cd
+  621  cd mongo-cxx-driver/build/
+  622  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2/ ..
+  623  ll
+  624  cd
+  625  cd mongo-cxx-driver/build/src/
+  626  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2/ ..
+  627  cd ..
+  628  cd mongo-cxx-driver-r3.1.1/build/
+  629  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/govardhan.veer/Downloads/libbson-1.6.2/ ..
+  630  cd 
+  631  cp Downloads/libbson-1.6.2 /usr/local/
+  632  sudo cp Downloads/libbson-1.6.2 /usr/local/
+  633  sudo cp Downloads/libbson-1.6.2/ /usr/local/ .
+  634  cd
+  635  ll
+  636  cp libbson-1.6.2.tar.gz /usr/local/
+  637  sudo cp libbson-1.6.2.tar.gz /usr/local/
+  638  cd
+  639  cd mongo-cxx-driver/
+  640  cd build/
+  641  cd
+  642  cd /usr/local/
+  643  sudo tar -xzf libbson-1.6.2.tar.gz 
+  644  sudo tar -xzvf libbson-1.6.2.tar.gz 
+  645  cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  646  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  647  ~cd
+  648  cd
+  649  cd /usr/local/
+  650  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  651  cd 
+  652  cd /data/crawler_app/Crawler/
+  653  cd mongo-cxx-driver/build/
+  654  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  655  cd
+  656  pwd
+  657  cd Downloads/
+  658  ll
+  659  cp libbson-1.6.2.tar.gz /data/crawler_app/Crawler/
+  660  cd /data/crawler_app/Crawler/
+  661  ll
+  662  sudo tar -xzf libbson-1.6.2.tar.gz 
+  663  cd libbson-1.6.2/
+  664  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  665  cd ../mongo-cxx-driver/build/
+  666  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr/local ..
+  667  sudo apt-get install libbson-1.6.x
+  668  sudo apt-get libbson-1.6.x
+  669  sudo apt-get libbson-1.6.0
+  670  sudo apt-get install libbson-1.6.0
+  671  make clean
+  672  cd ..
+  673  make clean
+  674  cd ..
+  675  make clean
+  676  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  677  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/libbson-1.6.2 ..
+  678  cd
+  679  cd mongo-cxx-driver/
+  680  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  681  cd 
+  682  locate CMakeLis
+  683  cd /data/crawler_app/Crawler/mongo-cxx-driver/build/
+  684  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=Down/libbson-1.6.2 ..
+  685  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=libbson-1.6.2 ..
+  686  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  687  locate libson
+  688  locate libbson
+  689  locate libbson1.6
+  690  locate libbson-1.6
+  691  locate libbson-
+  692  cd
+  693  ls\
+  694  ls
+  695  sudo tar -xvf boost_1_56_0.tar.bz2
+  696  ls
+  697  cd boost_1_56_0/
+  698  sudo cd boost_1_56_0/
+  699  sudo chown -R govardhan.veer:govardhan.veer boost_1_56_0
+  700  cd boost_1_56_0/
+  701  ls
+  702  ./b2 install
+  703  ./bootstrap.sh --prefix=/usr && ./b2 stage threading=multi link=shared
+  704  pwd
+  705  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/user/local ..
+  706  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  707  cd 
+  708  cd mongo-cxx-driver/build/
+  709  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  710  cd 
+  711  cd /usr/include/
+  712  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  713  cd
+  714  cd mongo-cxx-driver/
+  715  ll
+  716  cd build/
+  717  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  718  boost --version
+  719  history grep boost
+  720  history grep | boost
+  721  boost -v
+  722  boost -V
+  723  boost --V
+  724  man boost
+  725  dpkg -s libboost-dev | grep 'Version'
+  726  cd
+  727  cd boost_1_56_0/
+  728  ./b2 install threading=multi link=shared
+  729  ./b2 install
+  730  sudo ./b2 install
+  731  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  732  dpkg -s libboost-dev | grep 'Version'
+  733  history 
+  734  cd
+  735  cd mongo-cxx-driver/build/
+  736  sudo cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/data/crawler_app/Crawler/libbson-1.6.2 ..
+  737  history 
+  738  history > install.txt
+  739  sudo history > install.txt
+  740  touch install.txt
+  741  sudo /home/govardhan.veer/touch install.txt
+  742  sudo touch /home/govardhan.veer/touch install.txt
+  743  sudo touch /home/govardhan.veer/install.txt
+  744  history > /home/govardhan.veer/install.txt
+  745  sudo history > /home/govardhan.veer/install.txt
+  746  sudo chmod -R 777 /home/govardhan.veer/install.txt
+  747  sudo history > /home/govardhan.veer/install.txt
+  748  history > /home/govardhan.veer/install.txt
